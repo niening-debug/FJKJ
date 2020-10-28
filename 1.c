@@ -1,10 +1,5 @@
-#include <stdio.h>		
+2
 
-
-int main (void)
-{
-	int i, b;
-	printf ("hello world\n");
-	int c;
-	return 0;
-}
+231
+313
+:Edsfsdfksfjslf:
